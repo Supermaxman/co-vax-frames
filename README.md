@@ -18,7 +18,6 @@ Please cite as the following:
 	pages        = {1087--1097},
 	url          = {https://ojs.aaai.org/index.php/ICWSM/article/view/19360}
 }
-
 ```
 
 ## *CoVaxFrames*
