@@ -28,11 +28,11 @@ The *CoVaxFrames* collection is provided in the following file structure:
     │   ├── test.jsonl        # testing split of {Accept, Reject, No Stance, Not Relevant} human judgements
     │   └── train.jsonl       # training split of {Accept, Reject, No Stance, Not Relevant} human judgements
     └── taxonomy              # Framing taxonomy judgements
-       ├── misinfo.json      # MisTs with text as a json dictionary
-       ├── mist-concerns.csv # MisT concerns
-       ├── mist-themes.csv   # MisT themes
-       ├── mists.csv         # MisTs with m_ids which map to MisT concerns
-       └── questions.csv     # Questions used to discover MisTs
+       ├── frames.json        # Framings with text as a json dictionary
+       ├── mist-concerns.csv  # MisT concerns
+       ├── mist-themes.csv    # MisT themes
+       ├── mists.csv          # MisTs with m_ids which map to MisT concerns
+       └── questions.csv      # Questions used to discover MisTs
 
 You will need to use the Twitter API to download the text of the annotated tweets, as we cannot directly provide this info
 due to our IRB and Twitter's API policy.
