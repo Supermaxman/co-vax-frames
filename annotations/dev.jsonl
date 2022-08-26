@@ -1,0 +1,845 @@
+{"id": "1392886933119016960", "labels": {"F64": "Accept"}}
+{"id": "1387112807427018755", "labels": {"F90": "Accept"}}
+{"id": "1389374407664144387", "labels": {"F13": "Accept"}}
+{"id": "1404850404748316672", "labels": {"F73": "Accept"}}
+{"id": "1408465430390489090", "labels": {"F59": "Reject", "F64": "Reject"}}
+{"id": "1365365764765573121", "labels": {"F61": "No Stance"}}
+{"id": "1370864218946342912", "labels": {"F17": "Accept", "F95": "No Stance", "F111": "Accept"}}
+{"id": "1410206567203545090", "labels": {"F40": "No Stance"}}
+{"id": "1353568371686559744", "labels": {"F71": "Accept"}}
+{"id": "1387375168729739269", "labels": {"F112": "Accept"}}
+{"id": "1393139187969404931", "labels": {"F109": "Accept"}}
+{"id": "1382549744283570176", "labels": {"F29": "No Stance"}}
+{"id": "1354364851972411393", "labels": {"F109": "Accept"}}
+{"id": "1364447643406131201", "labels": {"F41": "Accept"}}
+{"id": "1373976122170486785", "labels": {"F45": "Accept", "F51": "Accept"}}
+{"id": "1401966578699284482", "labels": {"F108": "Not Relevant"}}
+{"id": "1388267385132654597", "labels": {"F96": "Accept"}}
+{"id": "1358925584227786759", "labels": {"F39": "Not Relevant", "F101": "Not Relevant"}}
+{"id": "1400877627389399043", "labels": {"F60": "Accept"}}
+{"id": "1340165072430108672", "labels": {"F29": "Accept"}}
+{"id": "1397009553997316101", "labels": {"F52": "Accept"}}
+{"id": "1393203212950274048", "labels": {"F35": "Reject"}}
+{"id": "1381671559107125255", "labels": {"F67": "No Stance"}}
+{"id": "1387365297288581120", "labels": {"F53": "Accept"}}
+{"id": "1367475595781804034", "labels": {"F1": "Not Relevant"}}
+{"id": "1373412162048245762", "labels": {"F53": "Accept"}}
+{"id": "1356598251248476162", "labels": {"F37": "Not Relevant", "F40": "Not Relevant", "F52": "Accept"}}
+{"id": "1357915866940100610", "labels": {"F87": "Not Relevant"}}
+{"id": "1382054845167800323", "labels": {"F88": "No Stance"}}
+{"id": "1370562672652079104", "labels": {"F58": "Accept"}}
+{"id": "1398376526521851905", "labels": {"F63": "Reject"}}
+{"id": "1344230108110925824", "labels": {"F13": "Reject"}}
+{"id": "1392804694330912774", "labels": {"F71": "Accept"}}
+{"id": "1396498277135228931", "labels": {"F77": "Accept"}}
+{"id": "1374307399717294080", "labels": {"F113": "Accept"}}
+{"id": "1359476021532237824", "labels": {"F6": "Accept", "F101": "Not Relevant"}}
+{"id": "1388512514107838466", "labels": {"F66": "Accept"}}
+{"id": "1379343754402861057", "labels": {"F111": "Accept"}}
+{"id": "1384415803781517314", "labels": {"F89": "No Stance"}}
+{"id": "1375067900143370241", "labels": {"F15": "Not Relevant", "F54": "Not Relevant"}}
+{"id": "1405053119818571777", "labels": {"F8": "Reject"}}
+{"id": "1397045437681471489", "labels": {"F64": "Accept"}}
+{"id": "1372723096445149184", "labels": {"F70": "Accept", "F71": "Accept", "F100": "Not Relevant", "F101": "Accept"}}
+{"id": "1382738072132055045", "labels": {"F109": "Accept"}}
+{"id": "1394632765014953991", "labels": {"F50": "Accept"}}
+{"id": "1396478185768898560", "labels": {"F64": "Accept"}}
+{"id": "1396976390390566918", "labels": {"F9": "Reject"}}
+{"id": "1370416144427974658", "labels": {"F106": "Accept", "F107": "Not Relevant", "F110": "Reject"}}
+{"id": "1358239589635248128", "labels": {"F108": "Accept"}}
+{"id": "1394956313969446913", "labels": {"F74": "Accept"}}
+{"id": "1343972729461104640", "labels": {"F26": "Not Relevant", "F34": "Accept", "F35": "Reject"}}
+{"id": "1384147462969954312", "labels": {"F1": "Accept", "F10": "Accept", "F38": "Accept"}}
+{"id": "1375370550789431299", "labels": {"F71": "Reject"}}
+{"id": "1344684108509802496", "labels": {"F91": "Accept", "F97": "Not Relevant", "F101": "Not Relevant"}}
+{"id": "1383865990430089220", "labels": {"F66": "Accept"}}
+{"id": "1370595664447475713", "labels": {"F108": "Not Relevant"}}
+{"id": "1381024374090780676", "labels": {"F39": "Reject"}}
+{"id": "1372650633468203020", "labels": {"F77": "Accept", "F78": "Accept"}}
+{"id": "1390765941068341253", "labels": {"F104": "Reject"}}
+{"id": "1395109611464794113", "labels": {"F85": "Accept"}}
+{"id": "1358548127331078145", "labels": {"F31": "Accept"}}
+{"id": "1380523909771104259", "labels": {"F56": "No Stance", "F75": "Reject", "F83": "Reject"}}
+{"id": "1391029127592005640", "labels": {"F19": "Not Relevant"}}
+{"id": "1367046844250001411", "labels": {"F28": "No Stance"}}
+{"id": "1395017753376010247", "labels": {"F15": "Accept"}}
+{"id": "1392475674024333314", "labels": {"F77": "No Stance", "F80": "Accept"}}
+{"id": "1378036522423877632", "labels": {"F62": "Reject"}}
+{"id": "1358386019255607296", "labels": {"F93": "Not Relevant"}}
+{"id": "1403457848818995206", "labels": {"F76": "No Stance"}}
+{"id": "1358471520729911298", "labels": {"F19": "Not Relevant"}}
+{"id": "1362657260045033476", "labels": {"F60": "Accept"}}
+{"id": "1394419770292723714", "labels": {"F81": "Reject", "F84": "Accept", "F88": "No Stance"}}
+{"id": "1404268382212345858", "labels": {"F83": "Accept"}}
+{"id": "1385667735577837568", "labels": {"F88": "Accept"}}
+{"id": "1362489643476869121", "labels": {"F11": "Reject", "F87": "Not Relevant", "F107": "No Stance"}}
+{"id": "1390700109940367378", "labels": {"F27": "Reject", "F107": "No Stance"}}
+{"id": "1376704902211207174", "labels": {"F71": "Accept"}}
+{"id": "1354021295055392768", "labels": {"F39": "Accept"}}
+{"id": "1366476338924781570", "labels": {"F29": "No Stance"}}
+{"id": "1393240589479596036", "labels": {"F63": "Accept"}}
+{"id": "1397452639290466304", "labels": {"F106": "Not Relevant"}}
+{"id": "1361653163510661123", "labels": {"F73": "Accept"}}
+{"id": "1366500995216388106", "labels": {"F51": "Accept"}}
+{"id": "1370863257943109632", "labels": {"F19": "Not Relevant"}}
+{"id": "1353039853039067136", "labels": {"F42": "Accept"}}
+{"id": "1387457805657931778", "labels": {"F4": "No Stance"}}
+{"id": "1353686589772353536", "labels": {"F55": "Reject"}}
+{"id": "1387217197861322757", "labels": {"F68": "Accept"}}
+{"id": "1387525206386921473", "labels": {"F60": "Reject", "F63": "Accept"}}
+{"id": "1362900831553527808", "labels": {"F14": "Reject"}}
+{"id": "1410078817029214211", "labels": {"F49": "Accept"}}
+{"id": "1372681462961508356", "labels": {"F52": "Accept"}}
+{"id": "1366833200354504707", "labels": {"F26": "Not Relevant", "F34": "Accept"}}
+{"id": "1399740024875278344", "labels": {"F36": "Accept"}}
+{"id": "1392827077162897409", "labels": {"F79": "Accept"}}
+{"id": "1403889737228636162", "labels": {"F73": "Accept"}}
+{"id": "1402596847886254081", "labels": {"F5": "Accept"}}
+{"id": "1382050925527851016", "labels": {"F96": "Accept"}}
+{"id": "1396975564167254019", "labels": {"F67": "Accept"}}
+{"id": "1404863442322964481", "labels": {"F79": "Accept"}}
+{"id": "1375159809838874628", "labels": {"F31": "Accept"}}
+{"id": "1387446720754331650", "labels": {"F110": "Reject"}}
+{"id": "1376433911291650048", "labels": {"F94": "No Stance", "F101": "Not Relevant"}}
+{"id": "1398012381494710272", "labels": {"F69": "Accept"}}
+{"id": "1344263978965368832", "labels": {"F89": "No Stance"}}
+{"id": "1372555302562848770", "labels": {"F13": "Accept"}}
+{"id": "1362536954655604740", "labels": {"F82": "Accept"}}
+{"id": "1387382870839279621", "labels": {"F46": "Accept"}}
+{"id": "1367590513113583616", "labels": {"F22": "Accept", "F83": "Accept"}}
+{"id": "1372576882542120962", "labels": {"F96": "Accept"}}
+{"id": "1345871462180257793", "labels": {"F93": "Accept"}}
+{"id": "1354114317600370688", "labels": {"F44": "Reject", "F61": "No Stance", "F96": "No Stance"}}
+{"id": "1340031861272137728", "labels": {"F7": "Accept"}}
+{"id": "1387475457021464586", "labels": {"F103": "Accept", "F105": "Accept"}}
+{"id": "1370485387920076804", "labels": {"F38": "Not Relevant"}}
+{"id": "1363576493104848898", "labels": {"F1": "Not Relevant"}}
+{"id": "1377253038835036162", "labels": {"F48": "Accept"}}
+{"id": "1379477944335179780", "labels": {"F2": "Accept"}}
+{"id": "1409833152403574787", "labels": {"F20": "Accept"}}
+{"id": "1381580243106938881", "labels": {"F60": "Accept"}}
+{"id": "1408162520439955464", "labels": {"F64": "Accept"}}
+{"id": "1374300291303096328", "labels": {"F113": "Accept"}}
+{"id": "1380110259986046977", "labels": {"F94": "Accept"}}
+{"id": "1377742559137652740", "labels": {"F51": "Accept"}}
+{"id": "1358065756592865280", "labels": {"F78": "Accept"}}
+{"id": "1383455385772724228", "labels": {"F88": "Not Relevant", "F100": "Accept", "F101": "Accept", "F111": "Not Relevant"}}
+{"id": "1370222488513343488", "labels": {"F89": "Reject", "F101": "Not Relevant"}}
+{"id": "1394322996974735363", "labels": {"F79": "Not Relevant"}}
+{"id": "1355190183512207360", "labels": {"F53": "Accept"}}
+{"id": "1382764827869900800", "labels": {"F34": "Accept"}}
+{"id": "1401833223391531009", "labels": {"F1": "Accept"}}
+{"id": "1374744975095824387", "labels": {"F42": "Accept"}}
+{"id": "1380992677143961600", "labels": {"F8": "Accept"}}
+{"id": "1384322697916731398", "labels": {"F58": "No Stance"}}
+{"id": "1384601303431712769", "labels": {"F6": "Accept"}}
+{"id": "1391064092308246532", "labels": {"F79": "Accept"}}
+{"id": "1358149340997378052", "labels": {"F11": "No Stance"}}
+{"id": "1402772661759922177", "labels": {"F60": "Accept"}}
+{"id": "1393066417340157953", "labels": {"F90": "Accept"}}
+{"id": "1397633426921033737", "labels": {"F10": "Reject"}}
+{"id": "1368709139686449159", "labels": {"F55": "Not Relevant"}}
+{"id": "1399236684391190530", "labels": {"F68": "Reject", "F100": "Accept"}}
+{"id": "1391816678263214081", "labels": {"F74": "No Stance"}}
+{"id": "1404466712741912585", "labels": {"F55": "Not Relevant"}}
+{"id": "1367012572344422404", "labels": {"F58": "Accept"}}
+{"id": "1358689019219955713", "labels": {"F94": "Not Relevant"}}
+{"id": "1362715792182304771", "labels": {"F17": "Accept", "F95": "No Stance", "F111": "No Stance"}}
+{"id": "1378295083531898886", "labels": {"F47": "Accept"}}
+{"id": "1371964873253470208", "labels": {"F24": "Accept", "F27": "No Stance", "F77": "No Stance"}}
+{"id": "1403332186191826948", "labels": {"F22": "No Stance", "F83": "No Stance"}}
+{"id": "1382620730169303043", "labels": {"F14": "Accept"}}
+{"id": "1344323829909360641", "labels": {"F49": "No Stance"}}
+{"id": "1377288171784962055", "labels": {"F2": "Reject"}}
+{"id": "1393932505854758917", "labels": {"F50": "Reject"}}
+{"id": "1375006608426696706", "labels": {"F51": "Accept"}}
+{"id": "1405147063462023170", "labels": {"F61": "Accept"}}
+{"id": "1380890978639249409", "labels": {"F97": "Accept", "F101": "Reject"}}
+{"id": "1366648979237318657", "labels": {"F11": "Reject"}}
+{"id": "1397373240998199301", "labels": {"F75": "Reject", "F76": "Reject"}}
+{"id": "1356794334826225671", "labels": {"F96": "Accept", "F97": "Accept"}}
+{"id": "1404379007764897792", "labels": {"F86": "Not Relevant"}}
+{"id": "1359108551713636354", "labels": {"F108": "Accept"}}
+{"id": "1389561919640465409", "labels": {"F103": "Not Relevant"}}
+{"id": "1407832085285556236", "labels": {"F58": "Accept"}}
+{"id": "1409160325077811209", "labels": {"F109": "Reject"}}
+{"id": "1361839771153145862", "labels": {"F112": "Not Relevant"}}
+{"id": "1355932105017073668", "labels": {"F17": "Accept", "F95": "Accept", "F111": "Accept"}}
+{"id": "1403914075860439043", "labels": {"F64": "Accept"}}
+{"id": "1357720227698642951", "labels": {"F103": "Not Relevant", "F105": "No Stance"}}
+{"id": "1375111118281183232", "labels": {"F97": "Accept"}}
+{"id": "1402654602810609671", "labels": {"F12": "Accept"}}
+{"id": "1371768445109481472", "labels": {"F28": "No Stance"}}
+{"id": "1371273988115025924", "labels": {"F1": "Reject", "F10": "Reject", "F14": "Reject"}}
+{"id": "1396453552210333703", "labels": {"F5": "Accept"}}
+{"id": "1402656612196757507", "labels": {"F12": "Accept"}}
+{"id": "1367495371207938054", "labels": {"F82": "Reject", "F85": "Not Relevant"}}
+{"id": "1395083302294282240", "labels": {"F52": "Accept", "F63": "Reject", "F100": "Reject"}}
+{"id": "1396315064525889538", "labels": {"F40": "Not Relevant"}}
+{"id": "1340202520350760961", "labels": {"F30": "Not Relevant"}}
+{"id": "1410052550733139968", "labels": {"F43": "Accept"}}
+{"id": "1387414909625901059", "labels": {"F110": "Accept"}}
+{"id": "1398289881055498241", "labels": {"F24": "Accept"}}
+{"id": "1363944505901154304", "labels": {"F10": "Accept", "F23": "Accept", "F76": "Accept", "F77": "Accept", "F87": "Accept"}}
+{"id": "1355785459679567875", "labels": {"F54": "No Stance"}}
+{"id": "1365564028915830784", "labels": {"F85": "No Stance"}}
+{"id": "1366647202165055488", "labels": {"F112": "Not Relevant"}}
+{"id": "1368420808192884736", "labels": {"F30": "Accept"}}
+{"id": "1403167779985973251", "labels": {"F10": "Accept", "F27": "Accept"}}
+{"id": "1387289767159676929", "labels": {"F3": "Reject"}}
+{"id": "1366733817483059205", "labels": {"F23": "Accept"}}
+{"id": "1358466736652247040", "labels": {"F98": "Not Relevant"}}
+{"id": "1353975512394313729", "labels": {"F17": "Accept"}}
+{"id": "1344799632610701319", "labels": {"F91": "No Stance", "F101": "Not Relevant"}}
+{"id": "1389622143219077120", "labels": {"F85": "Not Relevant"}}
+{"id": "1389050002492645376", "labels": {"F54": "Reject"}}
+{"id": "1377764923137269762", "labels": {"F27": "Reject", "F65": "Reject", "F76": "Reject", "F77": "No Stance"}}
+{"id": "1360092768006270977", "labels": {"F4": "Accept", "F97": "Not Relevant"}}
+{"id": "1388851534667132929", "labels": {"F112": "Not Relevant"}}
+{"id": "1355362270688108545", "labels": {"F37": "No Stance", "F40": "Accept"}}
+{"id": "1408056062205480964", "labels": {"F69": "Accept"}}
+{"id": "1396507501785358337", "labels": {"F92": "Reject"}}
+{"id": "1384624180226936837", "labels": {"F89": "No Stance"}}
+{"id": "1340712876718215168", "labels": {"F74": "Not Relevant", "F101": "Not Relevant"}}
+{"id": "1343284393352310785", "labels": {"F26": "Not Relevant", "F35": "Not Relevant", "F40": "Accept"}}
+{"id": "1400816821821902854", "labels": {"F46": "Accept"}}
+{"id": "1376702755474178059", "labels": {"F68": "Accept"}}
+{"id": "1366299943565148163", "labels": {"F11": "No Stance"}}
+{"id": "1354106011565621253", "labels": {"F58": "Accept"}}
+{"id": "1367487061842948101", "labels": {"F92": "No Stance", "F107": "Not Relevant"}}
+{"id": "1376655103466307595", "labels": {"F13": "Reject"}}
+{"id": "1360211346957164549", "labels": {"F67": "Accept"}}
+{"id": "1400539260952907779", "labels": {"F97": "Not Relevant"}}
+{"id": "1340156529018871808", "labels": {"F35": "Accept"}}
+{"id": "1375994859761242112", "labels": {"F66": "Accept"}}
+{"id": "1391731360692326402", "labels": {"F35": "Accept"}}
+{"id": "1377097555641704460", "labels": {"F105": "Not Relevant"}}
+{"id": "1363824351062224899", "labels": {"F26": "Not Relevant", "F35": "Reject"}}
+{"id": "1358566087860785152", "labels": {"F28": "No Stance"}}
+{"id": "1403744043281092610", "labels": {"F19": "Accept"}}
+{"id": "1373545110416293890", "labels": {"F99": "Not Relevant"}}
+{"id": "1400151491156103173", "labels": {"F29": "Not Relevant"}}
+{"id": "1372593659670056965", "labels": {"F23": "Reject"}}
+{"id": "1371774568654848003", "labels": {"F5": "Reject"}}
+{"id": "1363687447691882496", "labels": {"F55": "Accept"}}
+{"id": "1361986508354379790", "labels": {"F23": "Reject", "F106": "Accept"}}
+{"id": "1364257407774326784", "labels": {"F27": "Not Relevant"}}
+{"id": "1379437016572555269", "labels": {"F27": "Not Relevant"}}
+{"id": "1382463939066220546", "labels": {"F85": "Not Relevant"}}
+{"id": "1361382545087229954", "labels": {"F31": "No Stance"}}
+{"id": "1362523614441013250", "labels": {"F42": "Accept"}}
+{"id": "1369831957203349508", "labels": {"F31": "No Stance"}}
+{"id": "1409918601721745412", "labels": {"F77": "Accept"}}
+{"id": "1392042384092012544", "labels": {"F75": "Accept", "F77": "Accept"}}
+{"id": "1361381209998315520", "labels": {"F31": "No Stance"}}
+{"id": "1357752457191907328", "labels": {"F69": "Accept"}}
+{"id": "1361403212100755456", "labels": {"F19": "Accept"}}
+{"id": "1403541094579806209", "labels": {"F46": "Accept"}}
+{"id": "1379578572629753856", "labels": {"F33": "Accept"}}
+{"id": "1355035263077150723", "labels": {"F1": "Accept", "F10": "Accept"}}
+{"id": "1373906051096051712", "labels": {"F45": "Accept"}}
+{"id": "1410306178719027213", "labels": {"F82": "Reject"}}
+{"id": "1356002475891777538", "labels": {"F47": "Accept"}}
+{"id": "1410008947294154755", "labels": {"F43": "Accept"}}
+{"id": "1371660917079949318", "labels": {"F13": "Reject"}}
+{"id": "1376311588148408320", "labels": {"F27": "Reject", "F41": "Accept"}}
+{"id": "1356296609915576320", "labels": {"F55": "Reject"}}
+{"id": "1374405735996530692", "labels": {"F102": "Not Relevant", "F113": "Accept"}}
+{"id": "1404697468256854016", "labels": {"F106": "Accept"}}
+{"id": "1344595116594487296", "labels": {"F106": "Accept"}}
+{"id": "1390610497653911557", "labels": {"F104": "Accept"}}
+{"id": "1358117514727682048", "labels": {"F106": "Accept"}}
+{"id": "1409504363584778245", "labels": {"F42": "Accept"}}
+{"id": "1377567186601054208", "labels": {"F46": "Accept"}}
+{"id": "1392781733058207748", "labels": {"F45": "Accept"}}
+{"id": "1369216015050051590", "labels": {"F17": "Accept", "F48": "Accept"}}
+{"id": "1400233558208303108", "labels": {"F101": "Not Relevant", "F106": "Reject", "F107": "Not Relevant", "F111": "Accept"}}
+{"id": "1373478009584295936", "labels": {"F35": "Accept"}}
+{"id": "1394384263533973507", "labels": {"F17": "Accept", "F26": "Not Relevant", "F27": "Accept", "F35": "Not Relevant", "F41": "Accept", "F53": "Accept"}}
+{"id": "1362553834082607105", "labels": {"F62": "Accept", "F63": "Reject", "F65": "Reject"}}
+{"id": "1381170493542297600", "labels": {"F57": "Reject"}}
+{"id": "1365600573391855620", "labels": {"F17": "Accept", "F18": "Accept", "F27": "Reject", "F52": "Accept", "F53": "Accept"}}
+{"id": "1387564442012037125", "labels": {"F81": "Accept", "F84": "Accept"}}
+{"id": "1360899123654889472", "labels": {"F16": "Accept"}}
+{"id": "1409355700229181445", "labels": {"F34": "Accept"}}
+{"id": "1387012896555737088", "labels": {"F111": "No Stance"}}
+{"id": "1377272732656807939", "labels": {"F84": "Accept"}}
+{"id": "1377214031463866370", "labels": {"F100": "Not Relevant"}}
+{"id": "1390868395567026177", "labels": {"F54": "Accept"}}
+{"id": "1395324941604638723", "labels": {"F60": "Accept"}}
+{"id": "1358968873811337219", "labels": {"F26": "Reject", "F35": "Accept"}}
+{"id": "1354531877634228224", "labels": {"F24": "Accept", "F27": "Reject"}}
+{"id": "1344309407409180674", "labels": {"F70": "Accept", "F101": "Not Relevant"}}
+{"id": "1353835974480990209", "labels": {"F26": "Reject", "F35": "Reject", "F37": "Reject", "F40": "Accept"}}
+{"id": "1371808593289342977", "labels": {"F20": "Accept"}}
+{"id": "1355642383690575877", "labels": {"F4": "Reject"}}
+{"id": "1379441261837451266", "labels": {"F29": "No Stance"}}
+{"id": "1379130253201788931", "labels": {"F37": "No Stance"}}
+{"id": "1344097176742469633", "labels": {"F74": "Accept"}}
+{"id": "1379082869927251968", "labels": {"F51": "Accept"}}
+{"id": "1364601299606659081", "labels": {"F30": "Accept"}}
+{"id": "1383795497530368003", "labels": {"F49": "Accept"}}
+{"id": "1344892046360735744", "labels": {"F108": "No Stance"}}
+{"id": "1356866169261723648", "labels": {"F59": "No Stance"}}
+{"id": "1371418659520974849", "labels": {"F8": "Accept"}}
+{"id": "1377602952274186242", "labels": {"F28": "No Stance"}}
+{"id": "1373696620521426944", "labels": {"F21": "Accept"}}
+{"id": "1382317112467804160", "labels": {"F15": "Accept"}}
+{"id": "1390658307157864458", "labels": {"F20": "Reject"}}
+{"id": "1399726416070156294", "labels": {"F36": "Accept"}}
+{"id": "1345880852366983168", "labels": {"F106": "Accept"}}
+{"id": "1397451017487257601", "labels": {"F45": "Accept", "F51": "Accept", "F100": "No Stance"}}
+{"id": "1340276049821585408", "labels": {"F50": "Accept"}}
+{"id": "1359630808185716741", "labels": {"F30": "Accept"}}
+{"id": "1364632348680089602", "labels": {"F19": "Not Relevant"}}
+{"id": "1390393518233899010", "labels": {"F94": "Accept"}}
+{"id": "1369585674865807364", "labels": {"F102": "Not Relevant", "F105": "No Stance"}}
+{"id": "1355977768014635012", "labels": {"F5": "Accept"}}
+{"id": "1367738877562224640", "labels": {"F27": "Accept"}}
+{"id": "1361320958045396993", "labels": {"F60": "Accept"}}
+{"id": "1371631781129109508", "labels": {"F111": "Accept"}}
+{"id": "1369771460361822208", "labels": {"F1": "Accept"}}
+{"id": "1361202222462234624", "labels": {"F103": "Accept"}}
+{"id": "1378390893980483592", "labels": {"F92": "No Stance"}}
+{"id": "1370451413600514054", "labels": {"F23": "No Stance"}}
+{"id": "1368222527118573570", "labels": {"F23": "Accept"}}
+{"id": "1343297064801882114", "labels": {"F7": "Not Relevant"}}
+{"id": "1354186204506370050", "labels": {"F63": "Accept"}}
+{"id": "1387634429019971584", "labels": {"F22": "Accept"}}
+{"id": "1379025230086176773", "labels": {"F77": "No Stance"}}
+{"id": "1369978751916851203", "labels": {"F109": "Accept"}}
+{"id": "1372166266518073345", "labels": {"F24": "Accept", "F27": "No Stance"}}
+{"id": "1397197787415121923", "labels": {"F22": "Accept", "F75": "Accept", "F77": "Accept"}}
+{"id": "1357058431409152003", "labels": {"F21": "Accept", "F22": "Accept", "F23": "Reject", "F27": "No Stance"}}
+{"id": "1393511887845957639", "labels": {"F93": "Not Relevant"}}
+{"id": "1398429823366803457", "labels": {"F68": "Accept"}}
+{"id": "1369352335168770058", "labels": {"F93": "Reject"}}
+{"id": "1339954816567681024", "labels": {"F17": "Accept"}}
+{"id": "1371513178388111363", "labels": {"F71": "Accept"}}
+{"id": "1363777978728071168", "labels": {"F23": "Accept", "F76": "Accept"}}
+{"id": "1356147566845460480", "labels": {"F47": "Accept"}}
+{"id": "1368875527537319936", "labels": {"F69": "Accept", "F70": "Accept", "F72": "Not Relevant"}}
+{"id": "1400116454930931714", "labels": {"F12": "Accept"}}
+{"id": "1362831644839714818", "labels": {"F55": "Accept"}}
+{"id": "1370355967431380997", "labels": {"F47": "Accept"}}
+{"id": "1369666259411959817", "labels": {"F101": "Not Relevant"}}
+{"id": "1392840936086929408", "labels": {"F29": "No Stance"}}
+{"id": "1378109184328269829", "labels": {"F3": "Accept"}}
+{"id": "1344314703158263808", "labels": {"F11": "No Stance"}}
+{"id": "1409685542028021762", "labels": {"F70": "Accept", "F72": "Accept", "F97": "No Stance", "F101": "Not Relevant"}}
+{"id": "1382452543842889729", "labels": {"F36": "Accept"}}
+{"id": "1373910557179396097", "labels": {"F56": "Not Relevant"}}
+{"id": "1369342424070422535", "labels": {"F27": "Accept"}}
+{"id": "1374135310100074503", "labels": {"F27": "Reject"}}
+{"id": "1408853251026477060", "labels": {"F14": "Accept", "F106": "Not Relevant"}}
+{"id": "1402226926912040960", "labels": {"F36": "Accept"}}
+{"id": "1340931425609105411", "labels": {"F38": "Not Relevant"}}
+{"id": "1389594924677488648", "labels": {"F38": "No Stance"}}
+{"id": "1407523539213762561", "labels": {"F52": "Reject", "F54": "Accept"}}
+{"id": "1387078697493180424", "labels": {"F28": "Accept"}}
+{"id": "1355794984205692929", "labels": {"F109": "Accept"}}
+{"id": "1354721450628935680", "labels": {"F106": "Accept"}}
+{"id": "1340044737550692352", "labels": {"F93": "Not Relevant"}}
+{"id": "1355311188322607104", "labels": {"F75": "Accept", "F77": "Accept"}}
+{"id": "1385457842316996609", "labels": {"F96": "Accept"}}
+{"id": "1378944192873828352", "labels": {"F103": "Accept"}}
+{"id": "1377576041208807428", "labels": {"F44": "Reject", "F57": "Not Relevant", "F61": "Accept"}}
+{"id": "1409380036939972613", "labels": {"F43": "Accept"}}
+{"id": "1398351153608335360", "labels": {"F54": "Accept", "F65": "Accept"}}
+{"id": "1374317163515768835", "labels": {"F51": "Accept"}}
+{"id": "1387206409712902144", "labels": {"F90": "Accept", "F96": "Accept"}}
+{"id": "1376765839823659013", "labels": {"F92": "Reject"}}
+{"id": "1404442174587117576", "labels": {"F15": "Not Relevant"}}
+{"id": "1387526937917071361", "labels": {"F45": "Accept"}}
+{"id": "1377432403640082432", "labels": {"F86": "Not Relevant"}}
+{"id": "1361643032370675716", "labels": {"F18": "Accept"}}
+{"id": "1353282307696766976", "labels": {"F32": "Accept", "F33": "Accept"}}
+{"id": "1374417956914925570", "labels": {"F113": "Accept"}}
+{"id": "1343735168180301824", "labels": {"F26": "No Stance", "F35": "No Stance"}}
+{"id": "1359430986094809095", "labels": {"F6": "Accept", "F101": "Not Relevant"}}
+{"id": "1374812848447184904", "labels": {"F92": "No Stance"}}
+{"id": "1393950490837143559", "labels": {"F79": "Accept"}}
+{"id": "1384097133591072768", "labels": {"F10": "Reject"}}
+{"id": "1364725923858235393", "labels": {"F33": "Accept"}}
+{"id": "1392432727002173441", "labels": {"F40": "Accept"}}
+{"id": "1399220490481274881", "labels": {"F31": "No Stance"}}
+{"id": "1344972123249418242", "labels": {"F106": "Reject", "F111": "Not Relevant"}}
+{"id": "1393234891492315136", "labels": {"F50": "Not Relevant", "F86": "Not Relevant"}}
+{"id": "1371426428387008518", "labels": {"F83": "Reject"}}
+{"id": "1356126469009727488", "labels": {"F105": "Not Relevant"}}
+{"id": "1359959178056466439", "labels": {"F26": "Reject", "F34": "No Stance"}}
+{"id": "1379743065993322497", "labels": {"F50": "Accept"}}
+{"id": "1385236666554613760", "labels": {"F81": "No Stance"}}
+{"id": "1375186267915358217", "labels": {"F12": "Accept"}}
+{"id": "1392975480102477827", "labels": {"F68": "Accept"}}
+{"id": "1343540227047120897", "labels": {"F33": "Accept"}}
+{"id": "1402627002507665408", "labels": {"F66": "Accept"}}
+{"id": "1371859062476931073", "labels": {"F24": "Accept", "F27": "No Stance"}}
+{"id": "1379817047023030278", "labels": {"F50": "Reject"}}
+{"id": "1340915671178231808", "labels": {"F100": "No Stance", "F106": "Accept"}}
+{"id": "1384673842799562757", "labels": {"F18": "No Stance", "F70": "Accept", "F93": "Not Relevant", "F101": "Not Relevant"}}
+{"id": "1369385753764102159", "labels": {"F22": "Reject", "F83": "No Stance"}}
+{"id": "1387338226797621249", "labels": {"F25": "Accept"}}
+{"id": "1400099048623849478", "labels": {"F36": "Accept"}}
+{"id": "1339943160408125441", "labels": {"F11": "No Stance"}}
+{"id": "1370534231915511809", "labels": {"F26": "Accept"}}
+{"id": "1357469438648410112", "labels": {"F29": "No Stance"}}
+{"id": "1396471849429655558", "labels": {"F96": "Accept"}}
+{"id": "1365379440432275456", "labels": {"F102": "No Stance"}}
+{"id": "1372168752696078342", "labels": {"F5": "Accept"}}
+{"id": "1394414340900540416", "labels": {"F95": "No Stance", "F97": "Not Relevant"}}
+{"id": "1381518587370823681", "labels": {"F8": "Accept"}}
+{"id": "1362453520939704331", "labels": {"F60": "Reject"}}
+{"id": "1399921928379404290", "labels": {"F11": "No Stance"}}
+{"id": "1399984243703488514", "labels": {"F42": "Accept"}}
+{"id": "1373303614706487302", "labels": {"F20": "Reject"}}
+{"id": "1393270822257799168", "labels": {"F60": "Reject"}}
+{"id": "1394340701584904193", "labels": {"F51": "Accept"}}
+{"id": "1397209584515887116", "labels": {"F67": "Accept", "F101": "Reject"}}
+{"id": "1345775115078946820", "labels": {"F7": "Not Relevant"}}
+{"id": "1394394774455656454", "labels": {"F101": "Not Relevant"}}
+{"id": "1396175101473828868", "labels": {"F82": "No Stance", "F101": "Not Relevant"}}
+{"id": "1400933658345848833", "labels": {"F66": "Accept"}}
+{"id": "1353972478742323200", "labels": {"F17": "Reject", "F43": "Accept", "F52": "Accept", "F96": "No Stance"}}
+{"id": "1394873263382167552", "labels": {"F83": "Not Relevant"}}
+{"id": "1378690183806193664", "labels": {"F59": "Reject"}}
+{"id": "1380936971023880196", "labels": {"F65": "Not Relevant"}}
+{"id": "1407692830320037893", "labels": {"F77": "Accept", "F78": "Reject"}}
+{"id": "1402407594396983299", "labels": {"F12": "Accept"}}
+{"id": "1364745488654811136", "labels": {"F29": "Not Relevant"}}
+{"id": "1355189888946114560", "labels": {"F70": "Accept"}}
+{"id": "1399432366838403079", "labels": {"F64": "Reject"}}
+{"id": "1379841675456086022", "labels": {"F52": "Accept", "F61": "Accept", "F65": "Reject"}}
+{"id": "1398685573745762308", "labels": {"F67": "Accept"}}
+{"id": "1381663040710529025", "labels": {"F58": "Accept"}}
+{"id": "1343732616281780224", "labels": {"F109": "Accept"}}
+{"id": "1366413882579775489", "labels": {"F51": "Accept"}}
+{"id": "1385901729107955721", "labels": {"F110": "No Stance"}}
+{"id": "1344025470371848196", "labels": {"F39": "Accept"}}
+{"id": "1409620344265183232", "labels": {"F44": "Reject"}}
+{"id": "1340424480208920582", "labels": {"F25": "Reject"}}
+{"id": "1385651036400979973", "labels": {"F111": "Accept"}}
+{"id": "1373313319755464711", "labels": {"F83": "Reject"}}
+{"id": "1387782503356846082", "labels": {"F73": "Accept"}}
+{"id": "1366129328065572864", "labels": {"F42": "Accept"}}
+{"id": "1393083655216668675", "labels": {"F17": "Accept", "F51": "Accept", "F53": "Accept"}}
+{"id": "1340425051850608645", "labels": {"F89": "No Stance"}}
+{"id": "1391065504324915200", "labels": {"F26": "Reject", "F40": "No Stance"}}
+{"id": "1372185899673419778", "labels": {"F1": "Reject", "F10": "Reject", "F76": "Reject", "F77": "Reject"}}
+{"id": "1389539226472132611", "labels": {"F25": "Reject"}}
+{"id": "1389865102921306112", "labels": {"F17": "Reject", "F44": "Reject"}}
+{"id": "1409691459721125889", "labels": {"F62": "No Stance"}}
+{"id": "1390112251315634176", "labels": {"F67": "Accept"}}
+{"id": "1399266675820797954", "labels": {"F45": "Accept", "F51": "Accept", "F107": "Not Relevant"}}
+{"id": "1355155959866396672", "labels": {"F14": "Reject"}}
+{"id": "1371320459174711296", "labels": {"F54": "Accept"}}
+{"id": "1368125868556644352", "labels": {"F108": "Not Relevant", "F109": "Accept"}}
+{"id": "1372122692321615872", "labels": {"F24": "No Stance", "F27": "Not Relevant"}}
+{"id": "1377422389647056896", "labels": {"F35": "Accept"}}
+{"id": "1340050476268544001", "labels": {"F105": "Not Relevant"}}
+{"id": "1364991787190878213", "labels": {"F50": "Reject"}}
+{"id": "1401779098205278211", "labels": {"F75": "Accept"}}
+{"id": "1386248976383553537", "labels": {"F2": "Accept"}}
+{"id": "1395103900181491712", "labels": {"F88": "Not Relevant"}}
+{"id": "1378746056305995776", "labels": {"F74": "Not Relevant"}}
+{"id": "1339970444124950529", "labels": {"F32": "Accept", "F33": "Accept"}}
+{"id": "1362536167372128262", "labels": {"F90": "Accept", "F101": "Accept"}}
+{"id": "1353327512026279936", "labels": {"F32": "Accept"}}
+{"id": "1395810576350289927", "labels": {"F89": "Reject"}}
+{"id": "1370130661768503297", "labels": {"F91": "Accept"}}
+{"id": "1389180774809808906", "labels": {"F62": "Reject"}}
+{"id": "1382757651143086081", "labels": {"F53": "Accept"}}
+{"id": "1382646884683157510", "labels": {"F23": "Accept"}}
+{"id": "1370397423709741057", "labels": {"F45": "Accept"}}
+{"id": "1398054127847055364", "labels": {"F27": "No Stance"}}
+{"id": "1392220474768244737", "labels": {"F33": "Accept"}}
+{"id": "1388095172202967040", "labels": {"F57": "Reject"}}
+{"id": "1398428385945133058", "labels": {"F12": "Accept"}}
+{"id": "1374325933008633856", "labels": {"F113": "Accept"}}
+{"id": "1374500962778243076", "labels": {"F25": "Reject"}}
+{"id": "1400052151179780105", "labels": {"F102": "Accept"}}
+{"id": "1399457602057105409", "labels": {"F26": "Accept", "F36": "Accept", "F83": "Accept"}}
+{"id": "1377021905908170755", "labels": {"F98": "Accept"}}
+{"id": "1373940393855844356", "labels": {"F8": "Accept"}}
+{"id": "1379464178826625027", "labels": {"F47": "No Stance", "F48": "Accept"}}
+{"id": "1340002809157214208", "labels": {"F105": "Accept"}}
+{"id": "1371187286109384705", "labels": {"F96": "Accept"}}
+{"id": "1393235304778190850", "labels": {"F51": "Accept", "F97": "No Stance"}}
+{"id": "1392947464827670530", "labels": {"F58": "Accept"}}
+{"id": "1393566627124457474", "labels": {"F97": "Accept"}}
+{"id": "1363669469265068034", "labels": {"F25": "Reject"}}
+{"id": "1390768722898571275", "labels": {"F5": "Accept"}}
+{"id": "1343989572041138176", "labels": {"F2": "Accept"}}
+{"id": "1408460277452967938", "labels": {"F55": "Reject"}}
+{"id": "1407772929023086593", "labels": {"F49": "Accept"}}
+{"id": "1379134989330169857", "labels": {"F3": "Reject", "F14": "Reject"}}
+{"id": "1364651864835256324", "labels": {"F17": "Reject", "F45": "Accept"}}
+{"id": "1380115585963556865", "labels": {"F70": "Accept"}}
+{"id": "1404901198986088452", "labels": {"F1": "Accept", "F10": "Accept", "F38": "Accept"}}
+{"id": "1404425593010200580", "labels": {"F17": "Accept"}}
+{"id": "1361679391747682308", "labels": {"F25": "Accept"}}
+{"id": "1389269975651729413", "labels": {"F33": "Not Relevant"}}
+{"id": "1364745941681602568", "labels": {"F68": "Not Relevant"}}
+{"id": "1392988410365812741", "labels": {"F46": "Accept"}}
+{"id": "1359071013808590853", "labels": {"F27": "Not Relevant", "F41": "Accept"}}
+{"id": "1387496727733624835", "labels": {"F81": "Accept", "F84": "Accept", "F87": "No Stance", "F88": "No Stance"}}
+{"id": "1410354205018054656", "labels": {"F90": "Accept", "F94": "Not Relevant", "F101": "Accept"}}
+{"id": "1366422388712300545", "labels": {"F27": "Not Relevant", "F65": "Reject", "F76": "Reject", "F77": "Reject", "F78": "Not Relevant", "F80": "Not Relevant"}}
+{"id": "1389733395819687936", "labels": {"F103": "Not Relevant", "F104": "Accept", "F105": "No Stance", "F112": "Not Relevant"}}
+{"id": "1402373280993005575", "labels": {"F80": "Accept"}}
+{"id": "1373775361050300422", "labels": {"F64": "No Stance"}}
+{"id": "1382130245298499595", "labels": {"F100": "Reject"}}
+{"id": "1386872901073313798", "labels": {"F69": "No Stance"}}
+{"id": "1355883856398848000", "labels": {"F39": "Reject"}}
+{"id": "1409015721061978112", "labels": {"F79": "Accept"}}
+{"id": "1377784531516801025", "labels": {"F92": "Accept"}}
+{"id": "1397714213921976328", "labels": {"F111": "Not Relevant"}}
+{"id": "1367306990620393490", "labels": {"F63": "Accept"}}
+{"id": "1344399168870219784", "labels": {"F85": "No Stance"}}
+{"id": "1388918858015199237", "labels": {"F104": "Accept"}}
+{"id": "1369540836627804160", "labels": {"F77": "Reject"}}
+{"id": "1391735264826044416", "labels": {"F27": "Accept"}}
+{"id": "1409625349873225733", "labels": {"F68": "Accept"}}
+{"id": "1340056213925584898", "labels": {"F19": "Accept"}}
+{"id": "1377943103055785984", "labels": {"F59": "Reject"}}
+{"id": "1386754160033296384", "labels": {"F10": "No Stance"}}
+{"id": "1389802500987916288", "labels": {"F19": "Accept"}}
+{"id": "1374098386891071491", "labels": {"F3": "Reject"}}
+{"id": "1377689508842401801", "labels": {"F89": "No Stance"}}
+{"id": "1402279341887791105", "labels": {"F57": "No Stance"}}
+{"id": "1375667561694642185", "labels": {"F47": "No Stance"}}
+{"id": "1404805684269551618", "labels": {"F35": "Not Relevant", "F41": "No Stance"}}
+{"id": "1401625040894971907", "labels": {"F75": "Accept"}}
+{"id": "1355794764461965313", "labels": {"F13": "Accept"}}
+{"id": "1391888774972559362", "labels": {"F18": "Reject", "F35": "Accept"}}
+{"id": "1359902664721641472", "labels": {"F9": "No Stance"}}
+{"id": "1374461338454425608", "labels": {"F67": "Accept"}}
+{"id": "1391070679420788745", "labels": {"F107": "Accept"}}
+{"id": "1379602949882609665", "labels": {"F109": "Accept"}}
+{"id": "1409956931754549250", "labels": {"F43": "Accept"}}
+{"id": "1385275112698560513", "labels": {"F46": "Accept"}}
+{"id": "1375415352289542148", "labels": {"F70": "Not Relevant"}}
+{"id": "1365314316170366980", "labels": {"F5": "Accept"}}
+{"id": "1382757473937809408", "labels": {"F88": "Not Relevant"}}
+{"id": "1390034291850158084", "labels": {"F104": "Accept"}}
+{"id": "1408793134503432194", "labels": {"F59": "Accept"}}
+{"id": "1354715947974742016", "labels": {"F105": "Reject"}}
+{"id": "1359711323848908800", "labels": {"F86": "Not Relevant"}}
+{"id": "1376630139824537603", "labels": {"F20": "Accept"}}
+{"id": "1403012149513961473", "labels": {"F1": "Accept"}}
+{"id": "1378788374727815170", "labels": {"F50": "Accept"}}
+{"id": "1392675975272419333", "labels": {"F79": "Accept"}}
+{"id": "1363431288917528576", "labels": {"F107": "Not Relevant"}}
+{"id": "1374520114180026369", "labels": {"F113": "Accept"}}
+{"id": "1380598521364152322", "labels": {"F103": "Not Relevant", "F105": "No Stance"}}
+{"id": "1353853672619462662", "labels": {"F64": "Accept"}}
+{"id": "1367720239853690881", "labels": {"F82": "Reject"}}
+{"id": "1402708004819046411", "labels": {"F1": "Reject"}}
+{"id": "1372746826885996545", "labels": {"F8": "Accept"}}
+{"id": "1361912868522713088", "labels": {"F31": "No Stance", "F32": "No Stance"}}
+{"id": "1354047313803702273", "labels": {"F9": "Reject"}}
+{"id": "1377268717113970698", "labels": {"F2": "Accept"}}
+{"id": "1381127555449712642", "labels": {"F46": "Accept"}}
+{"id": "1343553663621541889", "labels": {"F92": "No Stance"}}
+{"id": "1375252172112240640", "labels": {"F67": "Accept"}}
+{"id": "1382004894392070144", "labels": {"F16": "Accept"}}
+{"id": "1386213980520124418", "labels": {"F109": "Accept"}}
+{"id": "1387225269769998378", "labels": {"F10": "No Stance"}}
+{"id": "1384591860656640000", "labels": {"F63": "Reject"}}
+{"id": "1345894594769268737", "labels": {"F13": "Reject"}}
+{"id": "1378620284379480066", "labels": {"F14": "Reject"}}
+{"id": "1396987555678203915", "labels": {"F77": "No Stance"}}
+{"id": "1392158321063378949", "labels": {"F74": "Not Relevant"}}
+{"id": "1344388609496010753", "labels": {"F19": "Not Relevant"}}
+{"id": "1402744711480238086", "labels": {"F89": "Accept"}}
+{"id": "1371705783289806848", "labels": {"F7": "Not Relevant", "F33": "Accept"}}
+{"id": "1366913193898094593", "labels": {"F82": "Reject"}}
+{"id": "1355506253758418945", "labels": {"F99": "Reject"}}
+{"id": "1375802049472954370", "labels": {"F16": "No Stance"}}
+{"id": "1343470721209663488", "labels": {"F7": "No Stance"}}
+{"id": "1366893288616263684", "labels": {"F50": "Not Relevant"}}
+{"id": "1358075956888494083", "labels": {"F14": "Not Relevant"}}
+{"id": "1344743272074252289", "labels": {"F91": "Accept", "F94": "Not Relevant", "F101": "Not Relevant"}}
+{"id": "1402714469763932160", "labels": {"F14": "Accept"}}
+{"id": "1374314072309661697", "labels": {"F113": "Accept"}}
+{"id": "1403540227399065600", "labels": {"F110": "Accept"}}
+{"id": "1344392824687628290", "labels": {"F48": "Accept"}}
+{"id": "1361523585223782402", "labels": {"F31": "Reject", "F93": "Reject"}}
+{"id": "1345793880789311493", "labels": {"F39": "Accept"}}
+{"id": "1356585807491059713", "labels": {"F1": "Reject", "F14": "Accept"}}
+{"id": "1385271210892832769", "labels": {"F74": "Not Relevant"}}
+{"id": "1409208389863886850", "labels": {"F70": "Accept", "F72": "Accept", "F101": "Accept"}}
+{"id": "1409884693726646279", "labels": {"F25": "Reject"}}
+{"id": "1374006500872617993", "labels": {"F12": "Accept"}}
+{"id": "1394738291094720513", "labels": {"F71": "Not Relevant", "F100": "Reject"}}
+{"id": "1358430690770051075", "labels": {"F9": "Reject"}}
+{"id": "1402629657770422286", "labels": {"F81": "No Stance", "F85": "Reject", "F87": "No Stance"}}
+{"id": "1370221625526849544", "labels": {"F30": "Accept"}}
+{"id": "1392695502848761858", "labels": {"F49": "Accept"}}
+{"id": "1389532679599689728", "labels": {"F54": "Accept"}}
+{"id": "1387512188202594312", "labels": {"F67": "No Stance"}}
+{"id": "1367326685817753603", "labels": {"F101": "Reject"}}
+{"id": "1353029468361805825", "labels": {"F7": "No Stance"}}
+{"id": "1409804269402816512", "labels": {"F52": "Accept"}}
+{"id": "1397635026292985861", "labels": {"F81": "Accept", "F84": "Accept"}}
+{"id": "1366546699913674754", "labels": {"F69": "Accept", "F70": "Accept"}}
+{"id": "1379131556342730753", "labels": {"F3": "Reject"}}
+{"id": "1344745108768485380", "labels": {"F91": "No Stance", "F101": "No Stance"}}
+{"id": "1360406226073489409", "labels": {"F84": "No Stance", "F101": "No Stance"}}
+{"id": "1390445957981085701", "labels": {"F3": "Accept"}}
+{"id": "1344487451893481472", "labels": {"F7": "Not Relevant"}}
+{"id": "1387717426750558210", "labels": {"F19": "Accept"}}
+{"id": "1340512239103561728", "labels": {"F81": "No Stance", "F85": "Not Relevant", "F87": "Not Relevant"}}
+{"id": "1354143775749255170", "labels": {"F4": "Reject"}}
+{"id": "1369408419527073794", "labels": {"F111": "Reject"}}
+{"id": "1359105576546889732", "labels": {"F6": "Accept", "F101": "Not Relevant"}}
+{"id": "1403710741027434497", "labels": {"F53": "Accept"}}
+{"id": "1393565554057830402", "labels": {"F77": "Reject", "F78": "No Stance"}}
+{"id": "1370434045952233473", "labels": {"F107": "Not Relevant"}}
+{"id": "1365067658471833600", "labels": {"F4": "No Stance"}}
+{"id": "1375150839380156416", "labels": {"F5": "Accept"}}
+{"id": "1386006802115055616", "labels": {"F60": "Reject"}}
+{"id": "1355266569098715138", "labels": {"F14": "Reject", "F15": "Not Relevant"}}
+{"id": "1379515673915834370", "labels": {"F25": "Accept"}}
+{"id": "1379511923398606855", "labels": {"F76": "No Stance"}}
+{"id": "1363240150310866946", "labels": {"F62": "Accept"}}
+{"id": "1344418908514693123", "labels": {"F65": "No Stance"}}
+{"id": "1339932960477233152", "labels": {"F86": "Reject"}}
+{"id": "1354584205418655746", "labels": {"F17": "Accept"}}
+{"id": "1339982118324211713", "labels": {"F74": "No Stance"}}
+{"id": "1381655618818203649", "labels": {"F39": "Accept"}}
+{"id": "1382819706361540608", "labels": {"F22": "Accept"}}
+{"id": "1395163192691675143", "labels": {"F25": "Reject"}}
+{"id": "1387781200081670146", "labels": {"F8": "Accept"}}
+{"id": "1361012593427537920", "labels": {"F6": "Accept"}}
+{"id": "1380199607863500810", "labels": {"F63": "Not Relevant"}}
+{"id": "1370003939391905794", "labels": {"F1": "Accept", "F10": "No Stance", "F13": "Accept", "F38": "Not Relevant"}}
+{"id": "1376591514990604289", "labels": {"F8": "Accept"}}
+{"id": "1364092722869641217", "labels": {"F92": "No Stance"}}
+{"id": "1389487887067099138", "labels": {"F83": "Accept"}}
+{"id": "1392983417738956800", "labels": {"F66": "Accept"}}
+{"id": "1364595167681011715", "labels": {"F14": "Reject"}}
+{"id": "1399921976651698179", "labels": {"F26": "Reject"}}
+{"id": "1387472169295355906", "labels": {"F23": "Accept"}}
+{"id": "1409863298313555971", "labels": {"F26": "Reject", "F37": "No Stance", "F40": "Accept"}}
+{"id": "1408545785319395330", "labels": {"F25": "Accept"}}
+{"id": "1372249453210394625", "labels": {"F18": "Reject"}}
+{"id": "1379110443856322567", "labels": {"F3": "Reject"}}
+{"id": "1340239323459801088", "labels": {"F94": "Not Relevant"}}
+{"id": "1381364386049060864", "labels": {"F26": "Accept", "F27": "Accept", "F52": "Reject", "F53": "Reject"}}
+{"id": "1340135393379770368", "labels": {"F29": "Accept", "F32": "No Stance"}}
+{"id": "1396221623066406916", "labels": {"F75": "Accept", "F77": "Accept"}}
+{"id": "1396162451679363072", "labels": {"F80": "Accept"}}
+{"id": "1377421491671691268", "labels": {"F77": "No Stance", "F79": "No Stance"}}
+{"id": "1365354749676158980", "labels": {"F40": "Accept"}}
+{"id": "1340118133248581634", "labels": {"F34": "No Stance"}}
+{"id": "1372226871975284738", "labels": {"F55": "Not Relevant"}}
+{"id": "1362899768247267331", "labels": {"F67": "Accept"}}
+{"id": "1368558306214612992", "labels": {"F47": "Accept", "F48": "Accept"}}
+{"id": "1360929801167642626", "labels": {"F48": "No Stance"}}
+{"id": "1380480610318217220", "labels": {"F1": "Reject", "F17": "Reject", "F42": "Accept"}}
+{"id": "1377247006528303107", "labels": {"F24": "Accept", "F27": "Reject", "F77": "Reject"}}
+{"id": "1392277544947392515", "labels": {"F9": "Accept"}}
+{"id": "1370795045670977536", "labels": {"F64": "Accept"}}
+{"id": "1382505443801583616", "labels": {"F94": "Accept", "F101": "Reject"}}
+{"id": "1390290386497642502", "labels": {"F87": "No Stance"}}
+{"id": "1366578126537568257", "labels": {"F51": "Accept"}}
+{"id": "1390258710287589377", "labels": {"F77": "Reject", "F78": "Reject"}}
+{"id": "1380868917904732160", "labels": {"F23": "Reject"}}
+{"id": "1376322001934159876", "labels": {"F90": "Accept", "F101": "Reject"}}
+{"id": "1376980065066582021", "labels": {"F113": "Accept"}}
+{"id": "1369904973560111104", "labels": {"F4": "Reject"}}
+{"id": "1374327887462072324", "labels": {"F101": "Not Relevant", "F113": "Accept"}}
+{"id": "1409524707360182287", "labels": {"F9": "Reject"}}
+{"id": "1344081343483838465", "labels": {"F92": "Accept"}}
+{"id": "1365993072849485824", "labels": {"F11": "Reject"}}
+{"id": "1375142027659243527", "labels": {"F65": "Not Relevant"}}
+{"id": "1409640111248003072", "labels": {"F55": "Accept", "F58": "Accept"}}
+{"id": "1409850455451131907", "labels": {"F55": "Not Relevant"}}
+{"id": "1362752180579684354", "labels": {"F50": "Not Relevant"}}
+{"id": "1340198261496422401", "labels": {"F50": "Accept", "F86": "Reject"}}
+{"id": "1396364109826846724", "labels": {"F80": "Accept"}}
+{"id": "1396041656374337536", "labels": {"F77": "Accept"}}
+{"id": "1339909863850323969", "labels": {"F101": "Reject"}}
+{"id": "1402583242729984003", "labels": {"F66": "Accept"}}
+{"id": "1371864305336004609", "labels": {"F24": "Accept", "F27": "No Stance"}}
+{"id": "1372272050245664772", "labels": {"F101": "Not Relevant"}}
+{"id": "1392563285803683844", "labels": {"F80": "Accept"}}
+{"id": "1396761357828173825", "labels": {"F52": "Accept", "F60": "Reject", "F62": "Reject", "F63": "Accept", "F65": "Accept"}}
+{"id": "1363243878355243010", "labels": {"F101": "No Stance"}}
+{"id": "1359634707399467009", "labels": {"F27": "Not Relevant", "F52": "Accept", "F54": "Reject"}}
+{"id": "1388060269532876800", "labels": {"F105": "Not Relevant"}}
+{"id": "1381641571402018820", "labels": {"F63": "Reject"}}
+{"id": "1340146246384795649", "labels": {"F33": "Accept"}}
+{"id": "1358880146028179466", "labels": {"F108": "Accept"}}
+{"id": "1410097539508969475", "labels": {"F55": "Not Relevant"}}
+{"id": "1340733099047530497", "labels": {"F32": "Accept"}}
+{"id": "1389574156514177030", "labels": {"F104": "Accept"}}
+{"id": "1407708689335717893", "labels": {"F22": "Accept", "F51": "Accept", "F57": "Not Relevant", "F100": "No Stance", "F107": "Not Relevant"}}
+{"id": "1392724028498989058", "labels": {"F59": "Accept"}}
+{"id": "1394676488373407747", "labels": {"F19": "Accept"}}
+{"id": "1372598206786322432", "labels": {"F88": "Accept"}}
+{"id": "1357793421625327618", "labels": {"F28": "Accept"}}
+{"id": "1357732339313504256", "labels": {"F93": "Not Relevant"}}
+{"id": "1356664211397636098", "labels": {"F106": "Accept"}}
+{"id": "1372602374712401921", "labels": {"F64": "Accept"}}
+{"id": "1372100466251857925", "labels": {"F71": "Accept"}}
+{"id": "1400492156758921219", "labels": {"F72": "Reject"}}
+{"id": "1373408595107143681", "labels": {"F67": "Accept"}}
+{"id": "1343996307355131908", "labels": {"F33": "Accept"}}
+{"id": "1374343609852555265", "labels": {"F113": "Accept"}}
+{"id": "1392482567010590721", "labels": {"F12": "Accept"}}
+{"id": "1375576921644412928", "labels": {"F110": "Accept"}}
+{"id": "1394756454557659143", "labels": {"F97": "Accept"}}
+{"id": "1362027883015905288", "labels": {"F14": "Reject"}}
+{"id": "1390188307397726211", "labels": {"F21": "Accept"}}
+{"id": "1343690692921462785", "labels": {"F59": "Reject"}}
+{"id": "1388214300322500610", "labels": {"F86": "Accept"}}
+{"id": "1405083919662436353", "labels": {"F73": "Accept"}}
+{"id": "1385158751762599936", "labels": {"F83": "Not Relevant"}}
+{"id": "1367082213624475650", "labels": {"F94": "Not Relevant"}}
+{"id": "1400597663691780098", "labels": {"F109": "No Stance"}}
+{"id": "1407644871448465412", "labels": {"F77": "Accept", "F78": "Accept"}}
+{"id": "1360578073637367809", "labels": {"F62": "Reject"}}
+{"id": "1384078849873301509", "labels": {"F10": "Reject"}}
+{"id": "1400157770280628227", "labels": {"F37": "Accept"}}
+{"id": "1409790809424105472", "labels": {"F26": "No Stance", "F35": "No Stance", "F40": "Accept"}}
+{"id": "1356257105645334529", "labels": {"F47": "Accept"}}
+{"id": "1394902216276803586", "labels": {"F46": "Accept"}}
+{"id": "1395002961978343424", "labels": {"F70": "Accept", "F71": "Accept", "F101": "Reject"}}
+{"id": "1374834674229506056", "labels": {"F18": "Accept"}}
+{"id": "1383189729848463365", "labels": {"F61": "No Stance"}}
+{"id": "1339978952908128263", "labels": {"F33": "Accept"}}
+{"id": "1374690845593632770", "labels": {"F98": "Not Relevant"}}
+{"id": "1405055647943737346", "labels": {"F108": "Accept"}}
+{"id": "1364018773900988416", "labels": {"F75": "Accept"}}
+{"id": "1364742621827055618", "labels": {"F17": "Accept"}}
+{"id": "1394710805690470402", "labels": {"F79": "No Stance"}}
+{"id": "1386421354136748036", "labels": {"F74": "Not Relevant"}}
+{"id": "1392616962560303107", "labels": {"F80": "No Stance"}}
+{"id": "1345173349660430336", "labels": {"F19": "Not Relevant"}}
+{"id": "1403630025434447872", "labels": {"F109": "Accept"}}
+{"id": "1374526258831237121", "labels": {"F113": "Accept"}}
+{"id": "1344253682620235776", "labels": {"F39": "Reject"}}
+{"id": "1367151965076086784", "labels": {"F89": "No Stance"}}
+{"id": "1392071791489716224", "labels": {"F75": "Accept", "F77": "Accept"}}
+{"id": "1380874924751876098", "labels": {"F19": "Accept"}}
+{"id": "1368733930602573826", "labels": {"F38": "Not Relevant"}}
+{"id": "1377348431727919106", "labels": {"F88": "No Stance"}}
+{"id": "1354908437440815104", "labels": {"F55": "Not Relevant"}}
+{"id": "1370957702948663298", "labels": {"F98": "Reject"}}
+{"id": "1364583077456998408", "labels": {"F14": "Reject"}}
+{"id": "1344197897408036865", "labels": {"F38": "Not Relevant"}}
+{"id": "1382973643538403328", "labels": {"F70": "Not Relevant"}}
+{"id": "1362180457094381568", "labels": {"F4": "No Stance"}}
+{"id": "1396124557916794882", "labels": {"F17": "Reject", "F95": "Reject"}}
+{"id": "1384472469696913409", "labels": {"F60": "Accept"}}
+{"id": "1389579710544424971", "labels": {"F59": "Accept"}}
+{"id": "1395005260758933509", "labels": {"F53": "Accept", "F65": "Accept"}}
+{"id": "1365892538998079488", "labels": {"F71": "No Stance"}}
+{"id": "1396682638983712770", "labels": {"F105": "Accept"}}
+{"id": "1392504631151013888", "labels": {"F75": "Accept", "F77": "Accept"}}
+{"id": "1353363671330783233", "labels": {"F31": "Reject", "F101": "Not Relevant"}}
+{"id": "1379211722410622980", "labels": {"F19": "Accept"}}
+{"id": "1345872264236040192", "labels": {"F37": "No Stance", "F40": "Accept"}}
+{"id": "1386979066331471872", "labels": {"F28": "Accept"}}
+{"id": "1344012801761751050", "labels": {"F33": "No Stance"}}
+{"id": "1355720301754068994", "labels": {"F71": "No Stance"}}
+{"id": "1404613877879361542", "labels": {"F36": "Accept"}}
+{"id": "1391738801094074369", "labels": {"F37": "Accept"}}
+{"id": "1387167641203142657", "labels": {"F55": "Accept"}}
+{"id": "1344925544467599361", "labels": {"F83": "Accept"}}
+{"id": "1345779731627700227", "labels": {"F9": "Accept"}}
+{"id": "1400094780915294218", "labels": {"F57": "Reject"}}
+{"id": "1383907757984653312", "labels": {"F20": "Accept"}}
+{"id": "1373812533300056067", "labels": {"F18": "No Stance", "F72": "Not Relevant", "F93": "No Stance", "F94": "Accept", "F101": "Not Relevant"}}
+{"id": "1387620585153368065", "labels": {"F15": "Accept"}}
+{"id": "1340521264029589505", "labels": {"F16": "Accept"}}
+{"id": "1378095867647909893", "labels": {"F89": "Accept"}}
+{"id": "1393658979675361281", "labels": {"F59": "Reject"}}
+{"id": "1362794384513728512", "labels": {"F93": "Reject"}}
+{"id": "1372104272276549632", "labels": {"F105": "No Stance"}}
+{"id": "1376231212373708813", "labels": {"F61": "Reject"}}
+{"id": "1407986400813719554", "labels": {"F5": "Accept"}}
+{"id": "1403586905590034437", "labels": {"F108": "Accept"}}
+{"id": "1384857805329416192", "labels": {"F9": "Accept"}}
+{"id": "1390424282237263874", "labels": {"F21": "Accept"}}
+{"id": "1370768479201148933", "labels": {"F100": "Reject"}}
+{"id": "1408457541810634753", "labels": {"F66": "Accept"}}
+{"id": "1340419039143710720", "labels": {"F7": "Accept"}}
+{"id": "1340039321357856768", "labels": {"F15": "Accept"}}
+{"id": "1397371611368595457", "labels": {"F50": "No Stance"}}
+{"id": "1409424200717197312", "labels": {"F65": "Accept", "F101": "Not Relevant"}}
+{"id": "1361749364004249607", "labels": {"F93": "No Stance"}}
+{"id": "1392585846985871360", "labels": {"F87": "Reject"}}
+{"id": "1368605009294860290", "labels": {"F26": "Not Relevant", "F39": "Accept", "F107": "Not Relevant"}}
+{"id": "1359398724150124544", "labels": {"F6": "Reject"}}
+{"id": "1374446490391773186", "labels": {"F81": "Accept"}}
+{"id": "1397295018713485320", "labels": {"F46": "Accept"}}
+{"id": "1404120045849137156", "labels": {"F57": "Reject"}}
+{"id": "1407616426194710532", "labels": {"F43": "Accept"}}
+{"id": "1366852472208261120", "labels": {"F107": "Reject"}}
+{"id": "1384220407885037578", "labels": {"F16": "Reject"}}
+{"id": "1390031154934280193", "labels": {"F77": "Accept"}}
+{"id": "1383793403243106311", "labels": {"F27": "Reject", "F41": "Reject"}}
+{"id": "1380595188792393730", "labels": {"F99": "Not Relevant"}}
+{"id": "1378975422155722752", "labels": {"F109": "Accept"}}
+{"id": "1355311788124999684", "labels": {"F45": "Accept", "F53": "Accept", "F54": "Reject"}}
+{"id": "1379136786895564800", "labels": {"F86": "Not Relevant"}}
+{"id": "1375148107780911107", "labels": {"F11": "No Stance"}}
+{"id": "1368210487809208328", "labels": {"F57": "Reject"}}
+{"id": "1355334939504336897", "labels": {"F6": "Accept"}}
+{"id": "1384779087328071686", "labels": {"F107": "Accept"}}
+{"id": "1388646379606663171", "labels": {"F85": "Not Relevant"}}
+{"id": "1366906521712353280", "labels": {"F29": "No Stance"}}
+{"id": "1377937093356306432", "labels": {"F96": "Accept"}}
+{"id": "1384729912834097153", "labels": {"F75": "Not Relevant", "F83": "Not Relevant"}}
+{"id": "1376801543576559616", "labels": {"F35": "Not Relevant"}}
+{"id": "1359872380475240452", "labels": {"F30": "Accept"}}
+{"id": "1366367486602543109", "labels": {"F111": "Accept"}}
+{"id": "1378484567485554688", "labels": {"F1": "Not Relevant"}}
+{"id": "1404182886987743239", "labels": {"F108": "Accept"}}
+{"id": "1355938370224934912", "labels": {"F28": "Accept"}}
+{"id": "1375408837021347846", "labels": {"F27": "No Stance", "F105": "Not Relevant"}}
+{"id": "1374373413511254018", "labels": {"F113": "Accept"}}
+{"id": "1377143209755770883", "labels": {"F35": "Accept"}}
+{"id": "1340886562314223618", "labels": {"F37": "No Stance"}}
+{"id": "1371773967049097218", "labels": {"F7": "Not Relevant", "F101": "Not Relevant"}}
+{"id": "1355200096212840450", "labels": {"F74": "Accept"}}
+{"id": "1402671946379169794", "labels": {"F44": "Reject", "F61": "Accept", "F96": "Accept"}}
+{"id": "1361799893090770946", "labels": {"F90": "Reject"}}
+{"id": "1408719182938652678", "labels": {"F26": "Reject", "F52": "Accept", "F63": "Reject"}}
+{"id": "1391084733551955969", "labels": {"F42": "Accept"}}
+{"id": "1369280721173557251", "labels": {"F92": "No Stance"}}
+{"id": "1379675517893419008", "labels": {"F92": "No Stance"}}
+{"id": "1369332456990588928", "labels": {"F105": "Not Relevant"}}
+{"id": "1359513015570292737", "labels": {"F6": "Reject"}}
+{"id": "1358649519659880448", "labels": {"F92": "No Stance"}}
+{"id": "1389714092512919554", "labels": {"F69": "Accept"}}
+{"id": "1395942472765820928", "labels": {"F79": "Accept"}}
+{"id": "1377351695794122754", "labels": {"F58": "Accept"}}
+{"id": "1375888668649476100", "labels": {"F56": "No Stance"}}
+{"id": "1385637783440605185", "labels": {"F1": "Reject"}}
+{"id": "1388236006818713603", "labels": {"F81": "Accept", "F84": "Reject"}}
+{"id": "1364665940315492354", "labels": {"F39": "Accept"}}
+{"id": "1364262693604065286", "labels": {"F71": "Accept"}}
+{"id": "1391658721957355522", "labels": {"F107": "Not Relevant"}}
+{"id": "1382545473442045957", "labels": {"F36": "Accept"}}
+{"id": "1343586254127067137", "labels": {"F7": "No Stance"}}
+{"id": "1404297283831693315", "labels": {"F64": "Reject"}}
+{"id": "1388054879646601216", "labels": {"F74": "No Stance"}}
+{"id": "1376390243180441600", "labels": {"F16": "Accept"}}
+{"id": "1339981254956097538", "labels": {"F107": "No Stance"}}
+{"id": "1376491747589623809", "labels": {"F26": "Accept"}}
+{"id": "1345367381955276800", "labels": {"F89": "Accept"}}
+{"id": "1365808122640613379", "labels": {"F26": "Reject", "F27": "Reject"}}
+{"id": "1356862115613712384", "labels": {"F1": "Reject"}}
+{"id": "1387143345865121805", "labels": {"F50": "Accept"}}
+{"id": "1361943358051024896", "labels": {"F17": "Reject", "F52": "Accept", "F54": "Reject"}}
+{"id": "1408246805406666752", "labels": {"F81": "Accept", "F84": "Accept", "F85": "No Stance"}}
+{"id": "1382385164156829698", "labels": {"F24": "Accept", "F65": "Reject", "F77": "Reject"}}
+{"id": "1357367068115542019", "labels": {"F26": "Reject"}}
+{"id": "1393757163508551681", "labels": {"F2": "Accept"}}
+{"id": "1365529423693324292", "labels": {"F25": "Reject"}}
+{"id": "1394648628766023681", "labels": {"F72": "No Stance"}}
+{"id": "1382633155891494927", "labels": {"F88": "Not Relevant"}}
